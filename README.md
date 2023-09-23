@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssr0016&label=Profile%20views&color=0e75b6&style=flat" alt="ssr0016" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://www.facebook.com/jhayell.recluta"></a></h3>
 <p align="left">
 </p>
 
