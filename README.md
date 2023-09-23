@@ -10,6 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/jhayell.recluta">
          <img alt="facebook" title="Facebook Account" src="https://img.icons8.com/?size=48&id=yGcWL8copNNQ&format=png"/></a>
+<a href="samsonrecluta0016@gmail.com">
+         <img alt="gmail" title="Gmail Account" src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"/></a>
          
 <p align="left">
 </p>
