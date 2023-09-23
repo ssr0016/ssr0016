@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/jhayell.recluta">
-         <img alt="facebook" title="Facebook Account" src="https://www.svgrepo.com/show/475647/facebook-color.svg"/></a>
+         <img alt="facebook" title="Facebook Account" src="https://img.icons8.com/?size=48&id=yGcWL8copNNQ&format=png"/></a>
          
 <p align="left">
 </p>
