@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssr0016&label=Profile%20views&color=0e75b6&style=flat" alt="ssr0016" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://www.facebook.com/jhayell.recluta">
+         <img alt="facebook" title="Facebook Account" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
          
 <p align="left">
 </p>
