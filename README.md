@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/jhayell.recluta">
-         <img alt="facebook" title="Facebook Account" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="facebook" title="Facebook Account" src=""/></a>
          
 <p align="left">
 </p>
