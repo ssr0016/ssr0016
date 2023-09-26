@@ -12,7 +12,7 @@
 <p align="left">
          <a href="https://www.facebook.com/jhayell.recluta">
          <img alt="facebook" title="Facebook Account" src="https://img.icons8.com/?size=48&id=yGcWL8copNNQ&format=png"/></a>
-<a href="https://www.linkedin.com/in/samson-d-recluta-jr-9864bb286/">
+         <a href="https://www.linkedin.com/in/samson-d-recluta-jr-9864bb286/">
          <img alt="gmail" title="LinkedIn Account" src="https://img.icons8.com/?size=48&id=13930&format=png"/></a>
 </p>
 
