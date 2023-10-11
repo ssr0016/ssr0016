@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Samson D. Recluta Jr.</h1>
-<h3 align="center" color="black">Developer.Leader.</h3>
+<h3 align="center" color="black">Software Engineer.Leader.</h3>
 <h2 align="center"><a href="https://react-final-portfolio.vercel.app/">samsonrecluta.vercel.app</a></h2>
 <!-- <img align="right" alt"Coding" windth="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
