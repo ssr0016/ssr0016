@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Samson D. Recluta Jr.</h1>
-<h3 align="center" color="black">Software Engineer.Leader.</h3>
+<h3 align="center" color="black">Software Engineer.BackEnd Developer.Leader</h3>
 <h2 align="center"><a href="https://samsonrecluta.vercel.app/">samsonrecluta.vercel.app</a></h2>
 
 
