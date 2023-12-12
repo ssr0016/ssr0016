@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Samson D. Recluta Jr. and I'm currently Gopher</h1>
+<h1 align="center">Hi 👋, I'm Samson D. Recluta Jr., currently Gopher.</h1>
 
 <!-- Subtitle -->
 <h3 align="center">Software Engineer | GoLang Developer | Leader</h3>
