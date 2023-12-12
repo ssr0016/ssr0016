@@ -8,17 +8,19 @@
 <h2 align="center"><a href="https://samsonrecluta.vercel.app/">Portfolio: samsonrecluta.vercel.app</a></h2>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssr0016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ssr0016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.facebook.com/jhayell.recluta">
-        <img alt="Facebook" title="Facebook Account" src="https://img.icons8.com/color/48/000000/facebook.png"/>
-    </a>
-    <a href="https://www.linkedin.com/in/samson-d-recluta-jr-9864bb286/">
-        <img alt="LinkedIn" title="LinkedIn Account" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-    </a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.facebook.com/jhayell.recluta">
+    <img alt="Facebook" title="Facebook Account" src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samson-d-recluta-jr-9864bb286/">
+    <img alt="LinkedIn" title="LinkedIn Account" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
 </p>
 
 <!-- Languages and Tools -->
@@ -46,12 +48,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
-
 <!-- GitHub Stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ssr0016&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssr0016&show_icons=true&locale=en" alt="GitHub Stats">
+</p>
 
 <!-- Top Languages -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssr0016&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssr0016&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
 
 <!-- GitHub Streak -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ssr0016&" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssr0016&" alt="GitHub Streak">
+</p>
+
