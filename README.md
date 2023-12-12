@@ -28,6 +28,7 @@
 <p align="left">
     <!-- Add icons for other languages and tools -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
