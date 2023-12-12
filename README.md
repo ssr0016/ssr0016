@@ -20,7 +20,7 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="center">Tech Stack:</h3>
+<h3 align="center">Tools I work upon:</h3>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
