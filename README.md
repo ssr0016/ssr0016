@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samson D. Recluta Jr., currently Gopher.</h1>
 
 <!-- Subtitle -->
-<h3 align="center">Software Engineer | GoLang BackEnd Developer | Leader</h3>
+<h3 align="center">Software Engineer | GoLang Backend Developer | Leader</h3>
 
 <!-- Portfolio Link -->
 <p align="center">
