@@ -1,19 +1,15 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Samson D.Recluta Jr. Currently Gophers</h1>
+<h1 align="center">Hi 👋, I'm Samson D. Recluta Jr. and I'm currently Gopher</h1>
 
 <!-- Subtitle -->
-<h3 align="center">Software Engineer | GoLang Backend Developer | Leader</h3>
+<h3 align="center">Software Engineer | GoLang Developer | Leader</h3>
 
 <!-- Portfolio Link -->
-<h2 align="center"><a href="https://samsonrecluta.vercel.app/">Portfolio: samsonrecluta.vercel.app</a></h2>
-
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssr0016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="https://samsonrecluta.vercel.app/">Portfolio: samsonrecluta.vercel.app</a>
 </p>
 
 <!-- Connect with me -->
-<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.facebook.com/jhayell.recluta">
     <img alt="Facebook" title="Facebook Account" src="https://img.icons8.com/color/48/000000/facebook.png"/>
@@ -24,9 +20,8 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- Add icons for other languages and tools -->
+<h3 align="center">Tech Stack:</h3>
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="40" height="40"/>
@@ -63,4 +58,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssr0016&" alt="GitHub Streak">
 </p>
-
