@@ -4,11 +4,12 @@
 <!-- Subtitle -->
 <h3 align="center">Software Engineer | GoLang Backend Developer | Leader</h3>
 
-<h3 align="center">Connect with me:</h3>
 <!-- Portfolio Link -->
 <p align="center">
   <a href="https://samsonrecluta.vercel.app/">Portfolio: samsonrecluta.vercel.app</a>
 </p>
+
+<h3 align="center">Connect with me:</h3>
 
 <!-- Connect with me -->
 <p align="center">
