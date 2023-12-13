@@ -46,14 +46,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssr0016&show_icons=true&locale=en" alt="GitHub Stats">
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssr0016&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssr0016&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
 
 <!-- GitHub Streak -->
